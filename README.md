@@ -1,2 +1,5 @@
 # Bankruptcy-Prediction
-Company bankruptcy prediction with ML models with 97% accuracy
+Company bankruptcy prediction 
+  a. with Logistic regression model with 97% accuracy
+  b. with random forest with 98% accuracy 
+  c. with neural network with 100% accuracy 
